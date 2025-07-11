@@ -1,30 +1,23 @@
-<h1 align="left">Hi, I'm Ujjwal :)</h1>
+# Hi, I'm Ujjwal Kaul 👋
 
-###
+**Cyber Security Student**  
+Specializing in Blue Teaming & SOC Operations
 
-<div align="left">
-  <a href="www.linkedin.com/in/ujjwal-kaul-b0a695250" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:kaulujjwal1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <a href="tryhackme.com/p/nostradamus1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="tryhackme logo"  />
-  </a>
-</div>
+---
 
-###
+### 🛡️ Skills & Interests
+- Blue Teaming
+- Security Operations Center (SOC) Operations
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjwalk1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwalk1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🎓 Certifications
+- SOC Level 1 – TryHackMe
+- Fortinet Certified Associate (FCA) – Fortinet
+- Blue Team Junior Analyst (BTJA) – Security Blue Team
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ujjwalk1/count.svg?"  />
-</div>
+---
 
-###
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ujjwal-kaul-b0a695250)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-User-red?logo=tryhackme)](https://tryhackme.com/p/nostradamus1)
