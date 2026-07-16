@@ -1,12 +1,12 @@
 # Ujjwal Kaul
 
-**CyberSecurity Student · Blue Team · SOC Operations**  
+**CyberSecurity Student**  
 Int. M.Tech CSE (Cyber Security) @ VIT Bhopal · India
 
 ---
 
 ### About
-Blue Team focused security professional with hands-on experience in SOC operations and Digital Forensics. Ex Vice President of CyberWarriors VITB. TryHackMe Top 3% ranked user.
+Blue Team focused security professional with hands-on experience in SOC operations and Digital Forensics.
 
 ---
 
