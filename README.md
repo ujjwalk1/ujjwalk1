@@ -6,13 +6,7 @@ Int. M.Tech CSE (Cyber Security) @ VIT Bhopal · India
 ---
 
 ### About
-Blue Team focused security professional with hands-on experience in SOC operations and Digital Forensics.
-
----
-
-### 🏆 Highlights
-- 🥇 **CyHunt CTF Winner** — sponsored by Offensive Security
-- 🌐 **TryHackMe Top 3%** — advanced Blue Team paths
+Blue Team focused CyberSec Student with hands-on experience in SOC Operations and Digital Forensics.
 
 ---
 
